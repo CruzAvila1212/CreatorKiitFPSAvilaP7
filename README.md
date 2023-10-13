@@ -1,2 +1,2 @@
-# CreatorKiitFPSAvilaP7
-Creating a repo for my fps project.
+# CreatorKiit2DGamekitAvilaP7
+Creating a repo for my 2D gamekit project.
